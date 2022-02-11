@@ -24,10 +24,10 @@ a {
 .top-wrapper {
  padding: 180px 0 100px 0;
   background-image: url(https://github.com/nafisbriantama/nanapispis.github.io/blob/main/jokowi.png?raw=true);
- background-size: ;
+ background-size: cover;
   color: #1a7940;
   text-align: center;
-  background-align: center;
+  background-position: center;
 }
 
 .top-wrapper h1 {
