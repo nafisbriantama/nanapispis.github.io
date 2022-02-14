@@ -26,7 +26,7 @@ a {
 }
 
 .top-wrapper {
- padding: 180px 0 100px 0;
+ padding: 300px 0 100px 0;
   background-image: url(https://github.com/nafisbriantama/nanapispis.github.io/blob/main/jokowi.png?raw=true);
  background-size: cover;
   color: #DA1212;
@@ -99,7 +99,7 @@ element.style{
 }
 
 .logo {
-  width: 124px;
+  width: 100px;
   margin-top: 20px;
 }
 
