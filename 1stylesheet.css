@@ -73,6 +73,7 @@ li {
 
 /* Tambahkan CSS untuk tags <input> dan <textarea> */
 input, textarea {
+  height: 35px;
   width: 400px;
   margin-top: 10px;
   margin-bottom: 30px;
